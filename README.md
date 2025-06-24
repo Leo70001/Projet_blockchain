@@ -1,9 +1,9 @@
 Blockchain de Transactions entre Amis
 Description
 
-Ce projet est une simulation simplifiée d'une blockchain en Python, conçue à des fins éducatives. Il met en œuvre les concepts fondamentaux de la technologie blockchain, inspirés par le document TP3_SR73.pdf. L'application permet à trois utilisateurs, chacun opérant depuis son propre terminal, de participer à un réseau peer-to-peer, d'échanger des transactions, de miner de nouveaux blocs et de consulter leurs comptes.
+Ce projet est une simulation simplifiée d'une blockchain en Python, conçue à des fins éducatives. Il met en œuvre les concepts fondamentaux de la technologie blockchain, inspirés du TP3 de SR73. L'application permet à trois utilisateurs, chacun opérant depuis son propre terminal, de participer à un réseau peer-to-peer, d'échanger des transactions, de miner de nouveaux blocs et de consulter leurs comptes.
 
-La structure des blocs s'inspire de celle décrite dans le document, incluant une empreinte du bloc précédent, les données de transaction, une signature et une preuve de travail. 
+La structure des blocs s'inspire de celle décrite dans le TP, incluant une empreinte du bloc précédent, les données de transaction, une signature et une preuve de travail. 
 
 Fonctionnalités
 
